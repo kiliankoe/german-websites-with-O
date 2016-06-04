@@ -9,6 +9,7 @@ Mir fallen gerade nicht all ein
 * Lieferando
 * Opodo
 * Swoodoo
+* Trivago
 * Zalando
 
 Es gibt noch mehr, die fallen mir nur gerade nicht ein, ich schau zu wenig Fern
